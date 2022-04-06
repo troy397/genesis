@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0xF780EE134D8BB44A8097aD94779f3C5c2907cfBF",
+  "SCAN_LINK": "https://etherscan.io/address/0xf780ee134d8bb44a8097ad94779f3c5c2907cfbf",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Genesis Psycho Frens",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY":300,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 70000000000000000,
+  "DISPLAY_COST": 0.07,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.gg/Q9KEF4SH49",
+  "SHOW_BACKGROUND": true
+}
